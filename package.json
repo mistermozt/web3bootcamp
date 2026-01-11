@@ -1,7 +1,7 @@
 {
   "name": "web3bootcamp",
   "version": "1.0.0",
-  "description": "Bootcamp start – Week 0",
+  "description": "Bootcamp start - Week 0",
   "main": "hello.js",
   "scripts": {
     "start": "node hello.js"
