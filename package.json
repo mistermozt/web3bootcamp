@@ -1,0 +1,21 @@
+{
+  "name": "web3bootcamp",
+  "version": "1.0.0",
+  "description": "Bootcamp start – Week 0",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mistermozt/web3bootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mistermozt/web3bootcamp/issues"
+  },
+  "homepage": "https://github.com/mistermozt/web3bootcamp#readme"
+}
