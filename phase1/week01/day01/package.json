@@ -1,0 +1,20 @@
+{
+  "name": "day01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "format": "node -e \"console.log('format placeholder: will add prettier soon')\"",
+    "lint": "node -e \"console.log('lint placeholder: will add eslint soon')\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.28.0",
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
